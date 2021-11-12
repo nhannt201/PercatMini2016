@@ -6,6 +6,8 @@
 
 - Chat với người ảo trên máy tính
 
+- Mã nguồn tham gia cuộc thi Sáng tạo khoa học kỹ thuật tỉnh Đồng Tháp 2016
+
 # Website
 - Percat: http://www.percat.xyz/
 
