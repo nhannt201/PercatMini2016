@@ -11,7 +11,7 @@
 # Website
 - Percat: http://www.percat.xyz/
 
-Copyright © 2016
+Copyright © 2016 Nguyễn Trung Nhẫn
 
 # Tác giả
 - Nguyễn Trung Nhẫn
