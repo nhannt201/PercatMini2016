@@ -1,0 +1,27 @@
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.exe.config
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.exe.manifest
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.application
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.exe
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.pdb
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Percat Mini.xml
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Percat Mini\percatmini\percatmini\bin\Debug\Interop.WMPLib.dll
+E:\Percat Mini\percatmini\percatmini\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Percat Mini\percatmini\percatmini\bin\Debug\AxInterop.WMPLib.dll
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Interop.WMPLib.dll
+E:\Percat Mini\percatmini\percatmini\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Percat Mini\percatmini\percatmini\obj\Debug\AxInterop.WMPLib.dll
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.vbproj.ResolveComReference.cache
+E:\Percat Mini\percatmini\percatmini\obj\Debug\PercatMini.percat.resources
+E:\Percat Mini\percatmini\percatmini\obj\Debug\PercatMini.load.resources
+E:\Percat Mini\percatmini\percatmini\obj\Debug\PercatMini.Resources.resources
+E:\Percat Mini\percatmini\percatmini\obj\Debug\PercatMini.web.resources
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.vbproj.GenerateResource.Cache
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.exe.manifest
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.application
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.exe
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.xml
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.pdb
+E:\Percat Mini\percatmini\percatmini\obj\Debug\Percat Mini.vbprojResolveAssemblyReference.cache
+E:\Percat Mini\percatmini\percatmini\obj\Debug\PercatMini.scan.resources
