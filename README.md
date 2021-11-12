@@ -4,6 +4,8 @@
 
 - Mã nguồn đầy đủ bao gồm client và server, không sử dụng database.
 
+- Chat với người ảo trên máy tính
+
 # Website
 - Percat: http://www.percat.xyz/
 
