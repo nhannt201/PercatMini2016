@@ -1,0 +1,119 @@
+[Root]
+Most Recent Package=Percat
+
+
+[Package|Percat|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Percat\Package
+
+[Package|Percat|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Percat|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Percat|Files Found]
+
+[Package|Percat|Files Released]
+
+[Package|Percat|Missing Dependency Information]
+C:\Windows\System32\wininet.dll=
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18201_none_ec80f00e8593ece5\comctl32.dll=
+C:\Windows\System32\msimg32.dll=
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.18455_none_72d576ad8665e853\GdiPlus.dll=
+C:\Windows\System32\urlmon.dll=
+C:\Windows\System32\ieframe.dll=
+C:\Windows\System32\mshtml.tlb=
+
+[Package|Percat|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|Percat|Files Added]
+
+[Package|Percat|Files Removed]
+
+[Package|Percat|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+E:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\urlmon.dll=Yes
+C:\Windows\System32\msimg32.dll=Yes
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18201_none_ec80f00e8593ece5\comctl32.dll=Yes
+C:\Windows\System32\wininet.dll=Yes
+E:\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+E:\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Windows\System32\ieframe.dll=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\mshtml.tlb=Yes
+E:\Percat\Percat 6.0.exe=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+
+[Package|Percat|Configure Registry Files]
+Applicable=No
+
+[Package|Percat|Configure Remote Servers]
+Applicable=No
+
+[Package|Percat|Install Locations]
+E:\Percat\Percat.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+E:\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\urlmon.dll=$(WinSysPath)
+C:\Windows\winsxs\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.7601.18455_none_72d576ad8665e853\GdiPlus.dll=$(WinSysPath)
+C:\Windows\System32\msimg32.dll=$(WinSysPath)
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.18201_none_ec80f00e8593ece5\comctl32.dll=$(WinSysPath)
+C:\Windows\System32\wininet.dll=$(WinSysPath)
+E:\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Windows\System32\ieframe.dll=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+E:\Percat\Percat 4.0.exe=$(AppPath)
+E:\Percat\Percat 5.0.exe=$(AppPath)
+C:\Windows\System32\mshtml.tlb=$(WinSysPath)
+E:\Percat\Percat 6.0.exe=$(AppPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+
+[Package|Percat|Configure Shared Files]
+Applicable=Yes
+E:\Percat\Percat.exe=No
+E:\Percat\Percat 4.0.exe=No
+E:\Percat\Percat 5.0.exe=No
+E:\Percat\Percat 6.0.exe=No
+
+[Package|Percat|Distribution]
+Type=single
+Size=
+Title=Percat
+
+[Package|Percat|IconGroups]
+Group0=Percat
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Percat|Percat]
+Icon1=Percat.exe
+Title1=Percat
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Percat|Package]
+PackageFolder=E:\Percat\Package
+ProjectFolder=E:\Percat
+ServerSideCab=
+File1=E:\Percat\Package\setup.exe
+File2=E:\Percat\Package\Setup.Lst
+File3=E:\Percat\Package\Percat 6.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
